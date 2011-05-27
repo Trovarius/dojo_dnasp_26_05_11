@@ -1,3 +1,4 @@
+PRESENTES:
 vinicius quaiato
 hanneli tavante
 priscila mayumi
@@ -5,5 +6,9 @@ vinicius hanza
 luiz
 (mandem os outros nomes)
 
-
-
+PROBLEMA:
+Dado um valor, calcular a quantidade de combinacoes de moedas possiveis.
+Ex: 
+10 centavos -> 1 moeda de 10, 2 moedas de 5 = 2 combinacoes
+15 centavos -> 1 de 10 e 1 de 5, 3 de 5 = 2 combinacoes
+25 centavos -> 1 de 25, 2 de 10 e 1 de 5, 1 de 10 e 3 de 5, 5 de 5 = 4 combinacoes
